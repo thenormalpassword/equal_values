@@ -1,2 +1,2 @@
-def is_same_num(val1, val2):
+def is_same_val(val1, val2):
     ...
